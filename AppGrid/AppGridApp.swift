@@ -12,6 +12,8 @@ struct AppGridApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
-        }
-    }
-}
+                .background(.clear)
+                       }
+                       .windowStyle(.hiddenTitleBar)
+                   }
+               }
