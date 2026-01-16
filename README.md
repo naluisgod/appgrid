@@ -4,7 +4,19 @@ It was built as a lightweight replacement for Launchpad, using SwiftUI, with no 
 
 ## Installation
 
-To use AppGrid, simply download it from the **Releases** page, unzip the app, and drag it into your Applications folder. Have fun.
+To use AppGrid, you can either download it manually or install it via Homebrew.
+
+### Option 1: Manual installation
+
+Download AppGrid from the **Releases** page, unzip the app, and drag it into your Applications folder.
+
+### Option 2: Homebrew (recommended)
+
+If you use Homebrew, you can install AppGrid with:
+
+```sh
+brew tap naluisgod/appgrid
+brew install --cask appgrid
 
 ## Features
 
