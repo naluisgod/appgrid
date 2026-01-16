@@ -18,27 +18,4 @@ If you use Homebrew, you can install AppGrid with:
 brew tap naluisgod/appgrid
 brew install --cask appgrid
 
-## Features
-
-- Full-screen application grid
-- Large, readable app icons
-- Click to launch applications
-- ESC or ⌘Q to quit
-- Native performance (SwiftUI)
-- No third-party dependencies
-
-## Requirements
-
-- macOS 13 or newer
-- Xcode 15 or newer
-
-## Build & Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/naluisgod/appgrid.git
-
-2. Open the project in Xcode:
-   
-   open AppGrid.xcodeproj
+--
