@@ -2,6 +2,8 @@ AppGrid is a simple, native macOS launcher that displays all installed applicati
 
 It was built as a lightweight replacement for Launchpad, using SwiftUI, with no subscriptions, no tracking, and no unnecessary features.
 
+![AppGrid main view](appgrid-main.png)
+
 ## Features
 
 - Full-screen application grid
